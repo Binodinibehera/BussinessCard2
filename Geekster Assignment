@@ -3,7 +3,8 @@
         <style>
 
             body{
-                margin: 0px;
+                margin: 0px;git remote add origin https://github.com/Binodinibehera/Binodinibehera.gi
+
                 background:url("https://www.google.com/search?q=background+image&rlz=1C1OKWM_enIN920IN920&sxsrf=APq-WBt0XjQlLwOYN_oHX4y6dDJ-PogFKw:1644684032958&tbm=isch&source=iu&ictx=1&vet=1&fir=WJb3TVRKqLlSKM%252C0aKRK2RZxWjguM%252C_%253B97ufeg5EvMjbTM%252CSACzUJtVwi2jKM%252C_%253BYVJU4EkuO-hGdM%252C0aKRK2RZxWjguM%252C_%253Bu-T79F0t_SHhHM%252CW9kiGKk9q956IM%252C_%253BkXwag02GWx2cZM%252C5tfPhns_thvldM%252C_%253B3gEnmv1-bD1p2M%252C0aKRK2RZxWjguM%252C_%253Bgsq1qO8xIJf5xM%252Ci5oUTEWCwPkbrM%252C_%253BglOou5mBtEMGKM%252CkMZZQGcyyX5myM%252C_%253Bv88-M_AJ_P6MCM%252CnrS8yXEy4V6zEM%252C_%253Bs8cnn8j7VwoKqM%252CkmIztsADtIrUXM%252C_%253BUoBzqU8Fz3WgWM%252Ch7YZJuel2I-guM%252C_%253Bqh0WtRFjlSE56M%252Cr70zgyxVX_rukM%252C_%253Bg5mAtYSOAVmH-M%252CLAIZRd0gOwrSbM%252C_%253BSKxlePyUmN1InM%252CfBszHcolsNw0_M%252C_%253BT-xopU77fMAUcM%252Cxf8niAZKC13uYM%252C_%253Brf-rFvyFBL__0M%252CWliKd5L_7jKt4M%252C_%253BxJS1_E8hpQCaSM%252CiBuubM5atW1cQM%252C_&usg=AI4_-kTRwlRnRfD8180res63N-xVMVMcJA&sa=X&ved=2ahUKEwj9grW8zfr1AhWMyzgGHdF9CoAQ9QF6BAglEAE#imgrc=gsq1qO8xIJf5xM");
             }
 
